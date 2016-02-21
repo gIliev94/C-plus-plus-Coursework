@@ -1,8 +1,0 @@
-Employee full name: Georgi Lyubchov Iliev
-Employee PID: 9404016345
-Employee Salary: $1913.46
---------------------------------------------------------
-Employee full name: Lyubomir Lyubchov Iliev
-Employee PID: 9807016432
-Employee Salary: $2000.50
---------------------------------------------------------
