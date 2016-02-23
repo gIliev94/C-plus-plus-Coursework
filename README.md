@@ -8,7 +8,7 @@ Coming soon...
 <p></p> 
 <b>Class</b>, representing a <b><i>string</i></b> with following member fields: 
 <ul>
-<li>Pointer to the beggining of the string.</li>
+<li>Pointer to the beginning of the string.</li>
 <li>Content of the string.</li> 
 <li>Length of the string.</li>
 </ul>
