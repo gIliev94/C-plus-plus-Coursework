@@ -1,7 +1,7 @@
 # Coursework-C-plus-plus
 ( C++ ) Coursework for TU-Sofia - 3rd year
 <h3>DEMO:</h3>
-Coming soon...
+<a href="https://gyazo.com/b58201753ff6db831d3f7d8bb9d9e2ea"><img src="https://i.gyazo.com/b58201753ff6db831d3f7d8bb9d9e2ea.gif" alt="https://gyazo.com/b58201753ff6db831d3f7d8bb9d9e2ea"/></a>
 <h3>DESCRIPTION:</h3> 
 
 <h5><u>DESIGN</u></h5>
