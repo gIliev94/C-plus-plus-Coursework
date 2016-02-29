@@ -19,7 +19,7 @@ void printRecords(vector<Employee> employees);
 bool saveEmployeeRecord(Employee employeeRecord, vector<Employee>* records);
 bool hasValidContent(EnhancedString wrapper);
 bool isExitSelected();
-double roundUpSalary(double stSalary);
+double roundUpSalary(double stateSalary);
 
 int main() 
 {
