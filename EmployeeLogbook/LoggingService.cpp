@@ -12,7 +12,7 @@ ifstream LoggingService::salaryStatisticsIn;
 ofstream LoggingService::salaryStatisticsOut;
 ofstream LoggingService::employeeLogBook;
 
-void LoggingService::logEmployees(vector<Employee>& employees)
+void LoggingService::logEmployees(vector<Employee> employees)
 {
 	for each (Employee employee in employees)
 	{
@@ -23,7 +23,7 @@ void LoggingService::logEmployees(vector<Employee>& employees)
 	}
 }
 
-void LoggingService::logNewEmployeeSalaries(vector<Employee>& employees)
+void LoggingService::logNewEmployeeSalaries(vector<Employee> employees)
 {
 	salaryStatisticsOut.open("../employeeSalariesMap.txt", fstream::app);
 

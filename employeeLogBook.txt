@@ -1,0 +1,97 @@
+
+Employee full name: Georgi Lyubchov Iliev
+Employee personal id number: 9404010023
+Employee salary: $789.57
+--------------------------------------------------------
+Employee full name: Lyubomir Lyubchov Iliev
+Employee personal id number: 9807011332
+Employee salary: $242.82
+--------------------------------------------------------
+Employee full name: Marco Giuseppe Salussolia
+Employee personal id number: 6308054609
+Employee salary: $55134.55
+--------------------------------------------------------
+Employee full name: Jennifer Shrader Lawrence
+Employee personal id number: 9008153200
+Employee salary: $133711.05
+--------------------------------------------------------
+Employee full name: Jessica Michelle Chastain
+Employee personal id number: 7703241066
+Employee salary: $22515.10
+--------------------------------------------------------
+Employee full name: Li Mu Bai
+Employee personal id number: 5505182145
+Employee salary: $11772.99
+--------------------------------------------------------
+Employee full name: Penelope Cruz Sanchez
+Employee personal id number: 7404280010
+Employee salary: $25050.20
+--------------------------------------------------------
+Employee full name: Denzel Hayes Washington
+Employee personal id number: 5412285542
+Employee salary: $10799.80
+--------------------------------------------------------
+Employee full name: Alexander Joseph Luthor
+Employee personal id number: 7207118802
+Employee salary: $9570.69
+--------------------------------------------------------
+Employee full name: Hal Timothy Jordan
+Employee personal id number: 7611230909
+Employee salary: $36000.15
+--------------------------------------------------------
+Employee full name: Tom Marvolo Riddle
+Employee personal id number: 7811037708
+Employee salary: $5500.91
+--------------------------------------------------------
+Employee full name: Maria Elaina Bello
+Employee personal id number: 6704182280
+Employee salary: $17950.09
+--------------------------------------------------------
+Employee full name: Odette Juliette Yustman
+Employee personal id number: 8505103351
+Employee salary: $40682.25
+--------------------------------------------------------
+Employee full name: k k k
+Employee personal id number: 4343431111
+Employee salary: $435.65
+--------------------------------------------------------
+Employee full name: o M o
+Employee personal id number: 1212132480
+Employee salary: $123.46
+--------------------------------------------------------
+Employee full name: m O m
+Employee personal id number: 1313129014
+Employee salary: $204.79
+--------------------------------------------------------
+Employee full name: i i i
+Employee personal id number: 3123144561
+Employee salary: $45.55
+--------------------------------------------------------
+Employee full name: t y t
+Employee personal id number: 3456789122
+Employee salary: $100.45
+--------------------------------------------------------
+Employee full name: o o o
+Employee personal id number: 3231311333
+Employee salary: $54.54
+--------------------------------------------------------
+Employee full name: r r r
+Employee personal id number: 3344252221
+Employee salary: $114.45
+--------------------------------------------------------
+Employee full name: q q q
+Employee personal id number: 3434252513
+Employee salary: $178.53
+--------------------------------------------------------
+Employee full name: b b b
+Employee personal id number: 4567890111
+Employee salary: $223.46
+--------------------------------------------------------
+Employee full name: l l l
+Employee personal id number: 1231234512
+Employee salary: $43.44
+--------------------------------------------------------
+Employee full name: t r a
+Employee personal id number: 4324236764
+Employee salary: $123.23
+--------------------------------------------------------

@@ -11,12 +11,12 @@ EnhancedString::EnhancedString()
 {
 	length = 0;
 	content = ConfigurationConstants::EMPTY_STRING;
-	beginningPointer = NULL;
+	beginningPointer = nullptr;
 }
 
 EnhancedString::~EnhancedString()
 {
-	beginningPointer = NULL;
+	beginningPointer = nullptr;
 }
 
 EnhancedString::EnhancedString(string stringContent, unsigned int stringLength)
@@ -37,28 +37,28 @@ EnhancedString::EnhancedString(string stringContent, unsigned int stringLength)
 
 EnhancedString EnhancedString::operator+(const EnhancedString anotherString)
 {
-	if ((&anotherString) == NULL)
+	if (anotherString.beginningPointer == nullptr)
 	{
 		return *this;
 	}
 
-	content += anotherString.content;
-	length += anotherString.length;
-	beginningPointer = &content[0];
+	this->content += anotherString.content;
+	this->length += anotherString.length;
+	this->beginningPointer = &content[0];
 
 	return *this;
 }
 
 EnhancedString EnhancedString::operator=(const EnhancedString anotherString)
 {
-	if ((&anotherString) == NULL)
+	if (anotherString.beginningPointer == nullptr)
 	{
 		return *this;
 	}
 
-	content = anotherString.content;
-	length = anotherString.length;
-	beginningPointer = anotherString.beginningPointer;
+	this->content = anotherString.content;
+	this->length = anotherString.length;
+	this->beginningPointer = anotherString.beginningPointer;
 
 	return *this;
 }

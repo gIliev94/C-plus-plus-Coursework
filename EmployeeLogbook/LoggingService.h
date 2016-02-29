@@ -12,8 +12,8 @@ public:
 	static void openLog();
 	static void closeLog();
 	static bool isLogOpened();
-	static void logEmployees(vector<Employee>& employees);
-	static void logNewEmployeeSalaries(vector<Employee>& employees);
+	static void logEmployees(vector<Employee> employees);
+	static void logNewEmployeeSalaries(vector<Employee> employees);
 private:
 	LoggingService();
 	~LoggingService();

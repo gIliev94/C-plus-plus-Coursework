@@ -12,14 +12,9 @@ Employee::~Employee()
 {
 }
 
-bool Employee::operator>(Employee& anotherEmployee)
+bool Employee::operator>(Employee anotherEmployee)
 {
-	if ((&anotherEmployee) == NULL)
-	{
-		return false;
-	}
-
-	if (anotherEmployee.salary > this->salary) 
+	if (anotherEmployee.salary > this->salary)
 	{
 		return true;
 	}
@@ -27,9 +22,9 @@ bool Employee::operator>(Employee& anotherEmployee)
 	return false;
 }
 
-void Employee::sortBySalaryDesc(vector<Employee>* employees)
+void Employee::sortBySalaryDesc(vector<Employee> *employees)
 {
-	if (employees == NULL) 
+	if (employees == nullptr) 
 	{
 		return;
 	}
